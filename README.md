@@ -1,6 +1,3 @@
-Here's the README rewritten with a cleaner, more confident tone — less hype-y, more direct and professional:
-
----
 
 # Autonomous Inventory Orchestrator
 
